@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/images/Logo Gold.svg";
+import logo from "../assets/images/icon/Logo Gold.svg";
 import building from "../assets/images/building.jpg";
 import homeloan from "../assets/images/image-1.png";
 const DemoPage = () => {
